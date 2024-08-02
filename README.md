@@ -1,5 +1,5 @@
 # Checkout the new DailyBlog website
-👉 Live Demo: <a href='https://priyanshu-su30.github.io/Portfolio/'>Portfolio</a>
+👉 Live Demo: <a href='https://priyanshu-dailyblog.netlify.app'>Portfolio</a>
 
 # Getting Started with Create React App
 
