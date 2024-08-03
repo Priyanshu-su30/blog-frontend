@@ -1,4 +1,4 @@
-# Checkout the new DailyBlog website
+# DAILYBLOG
 👉 Live Demo: <a href='https://priyanshu-dailyblog.netlify.app'>DailyBlog</a>
 
 # Getting Started with Create React App
